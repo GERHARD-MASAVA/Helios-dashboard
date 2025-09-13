@@ -5,3 +5,8 @@ matplotlib
 yfinance
 scikit-learn
 scipy
+supabase
+postgrest
+gotrue
+storage3
+realtime
