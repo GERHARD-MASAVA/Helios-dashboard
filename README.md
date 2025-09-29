@@ -1,0 +1,1 @@
+Hey! I made this tool called Helios — it basically helps you see how your investments are doing. It tracks your money, tells you how risky it is, shows possible best- and worst-case outcomes, suggests a smart way to split your investments, and even shows what happens if the market goes down. You can see all the info in easy charts, and everything updates automatically.
